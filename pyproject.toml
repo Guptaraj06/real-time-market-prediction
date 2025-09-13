@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "market-prediction"
+name = "project"
 version = "0.1.0"
 description = ""
 authors = [{name="Raj Gupta"}]
